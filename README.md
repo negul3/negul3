@@ -1,5 +1,5 @@
-# Kim gahyeon's profile
-공사 중
+# 공사 중
 
-### [블로그](https://blog.naver.com/gahyun8211)
+### <img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white">[개발 공부](https://www.notion.so/c39e580510f04169aacaad319aa4a0fc)
 ### [메일]gahyun8211@naver.com
+### 배우는 중!<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
